@@ -14,3 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Pipefy é uma ferramenta de gestão de processos, automação e fluxo de trabalho. 
 
 Esse projeto tem como objetivo recriar a interface do Pipefy, incluindo a animação de drag 'n drop', com alterações em sua paleta de cores para que ficasse com o dark theme.
+
+O conteúdo dos Cards foi feito em uma API utilizando o Node.js, de forma estática.
