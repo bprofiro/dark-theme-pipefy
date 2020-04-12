@@ -1,6 +1,6 @@
 # Pipefy Dark Theme
 
-![dark-theme](https://github.com/bprofiro/assets/blob/master/starter.png)
+![dark-theme](https://github.com/bprofiro/assets/blob/master/pipefy.png)
 
 # 🚀  Tecnologias
 
