@@ -1,18 +1,27 @@
-# Pipefy Dark Theme
+<h1 align="center">
+  Pipefy Clone with Dracula Theme
+</h3>
 
-![dark-theme](https://github.com/bprofiro/assets/blob/master/pipefy.png)
 
-# 🚀  Tecnologias
+<p align="center">
+  <img src="https://github.com/bprofiro/assets/blob/master/pipefy.png"/>  
+</p>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<div>
+  <h2> :rocket: About the project: </h2>
 
--   [Node.js](https://nodejs.org/en/)
--   [React](https://reactjs.org/)
+  <p> Pipefy is a process management, automation and workflow tool.
 
-## 💻  Pipefy
+   This project aims to recreate the Pipefy interface, including the drag 'n drop' animation, with changes in its color palette to keep the dark theme.
 
-O Pipefy é uma ferramenta de gestão de processos, automação e fluxo de trabalho. 
+   The content of the Cards was made in an API using Node.js, in a static way. </p>
+</div>
 
-Esse projeto tem como objetivo recriar a interface do Pipefy, incluindo a animação de drag 'n drop', com alterações em sua paleta de cores para que ficasse com o dark theme.
+<div>
+  <h2> :computer: Techs: </h2>
+   <p> This project was built in just one language: JavaScript, using the following technologies:
 
-O conteúdo dos Cards foi feito em uma API utilizando o Node.js, de forma estática.
+   -   [Node.js](https://nodejs.org/en/)
+   -   [React](https://reactjs.org/)
+  </p>
+</div>
